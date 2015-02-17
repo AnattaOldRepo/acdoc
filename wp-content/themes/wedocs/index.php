@@ -12,7 +12,7 @@ if ( $headline = get_theme_mod( 'wedocs_home_text' ) ) { ?>
 <?php } ?>
 
 <?php
-$categories = get_terms( 'category', array('hide_empty' => false, 'orderby' => 'name', 'parent' => 0) );
+$categories = get_terms( 'category', array('hide_empty' => false, 'orderby' => 'name', 'parent' => 0, 'exclude_tree' => 1) );
 
 if ( $categories ) {
 
