@@ -1,0 +1,40 @@
+[17-Feb-2015 06:15:08 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/mridul/www/acdoc/ac.doc/wp-admin/includes/translation-install.php on line 59
+[17-Feb-2015 06:15:08 UTC] PHP Stack trace:
+[17-Feb-2015 06:15:08 UTC] PHP   1. {main}() /home/mridul/www/acdoc/ac.doc/wp-admin/install.php:0
+[17-Feb-2015 06:15:08 UTC] PHP   2. wp_get_available_translations() /home/mridul/www/acdoc/ac.doc/wp-admin/install.php:194
+[17-Feb-2015 06:15:08 UTC] PHP   3. translations_api() /home/mridul/www/acdoc/ac.doc/wp-admin/includes/translation-install.php:103
+[17-Feb-2015 06:15:08 UTC] PHP   4. trigger_error() /home/mridul/www/acdoc/ac.doc/wp-admin/includes/translation-install.php:59
+[17-Feb-2015 06:15:09 UTC] PHP Notice:  Undefined offset: 1 in /home/mridul/www/acdoc/ac.doc/wp-admin/includes/translation-install.php on line 156
+[17-Feb-2015 06:15:09 UTC] PHP Stack trace:
+[17-Feb-2015 06:15:09 UTC] PHP   1. {main}() /home/mridul/www/acdoc/ac.doc/wp-admin/install.php:0
+[17-Feb-2015 06:15:09 UTC] PHP   2. wp_install_language_form() /home/mridul/www/acdoc/ac.doc/wp-admin/install.php:197
+[17-Feb-2015 06:15:20 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/mridul/www/acdoc/ac.doc/wp-admin/includes/translation-install.php on line 59
+[17-Feb-2015 06:15:20 UTC] PHP Stack trace:
+[17-Feb-2015 06:15:20 UTC] PHP   1. {main}() /home/mridul/www/acdoc/ac.doc/wp-admin/install.php:0
+[17-Feb-2015 06:15:20 UTC] PHP   2. wp_get_available_translations() /home/mridul/www/acdoc/ac.doc/wp-admin/install.php:194
+[17-Feb-2015 06:15:20 UTC] PHP   3. translations_api() /home/mridul/www/acdoc/ac.doc/wp-admin/includes/translation-install.php:103
+[17-Feb-2015 06:15:20 UTC] PHP   4. trigger_error() /home/mridul/www/acdoc/ac.doc/wp-admin/includes/translation-install.php:59
+[17-Feb-2015 06:15:21 UTC] PHP Notice:  Undefined offset: 1 in /home/mridul/www/acdoc/ac.doc/wp-admin/includes/translation-install.php on line 156
+[17-Feb-2015 06:15:21 UTC] PHP Stack trace:
+[17-Feb-2015 06:15:21 UTC] PHP   1. {main}() /home/mridul/www/acdoc/ac.doc/wp-admin/install.php:0
+[17-Feb-2015 06:15:21 UTC] PHP   2. wp_install_language_form() /home/mridul/www/acdoc/ac.doc/wp-admin/install.php:197
+[17-Feb-2015 06:17:52 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/mridul/www/acdoc/ac.doc/wp-admin/includes/translation-install.php on line 59
+[17-Feb-2015 06:17:52 UTC] PHP Stack trace:
+[17-Feb-2015 06:17:52 UTC] PHP   1. {main}() /home/mridul/www/acdoc/ac.doc/wp-admin/install.php:0
+[17-Feb-2015 06:17:52 UTC] PHP   2. wp_get_available_translations() /home/mridul/www/acdoc/ac.doc/wp-admin/install.php:194
+[17-Feb-2015 06:17:52 UTC] PHP   3. translations_api() /home/mridul/www/acdoc/ac.doc/wp-admin/includes/translation-install.php:103
+[17-Feb-2015 06:17:52 UTC] PHP   4. trigger_error() /home/mridul/www/acdoc/ac.doc/wp-admin/includes/translation-install.php:59
+[17-Feb-2015 06:29:44 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/mridul/www/acdoc/ac.doc/wp-admin/includes/translation-install.php on line 59
+[17-Feb-2015 06:29:44 UTC] PHP Stack trace:
+[17-Feb-2015 06:29:44 UTC] PHP   1. {main}() /home/mridul/www/acdoc/ac.doc/wp-admin/install.php:0
+[17-Feb-2015 06:29:44 UTC] PHP   2. wp_get_available_translations() /home/mridul/www/acdoc/ac.doc/wp-admin/install.php:194
+[17-Feb-2015 06:29:44 UTC] PHP   3. translations_api($type = *uninitialized*, $args = *uninitialized*) /home/mridul/www/acdoc/ac.doc/wp-admin/includes/translation-install.php:103
+[17-Feb-2015 06:29:44 UTC] PHP   4. trigger_error(*uninitialized*, *uninitialized*) /home/mridul/www/acdoc/ac.doc/wp-admin/includes/translation-install.php:59
+[17-Feb-2015 06:29:48 UTC] PHP Notice:  Undefined offset: 1 in /home/mridul/www/acdoc/ac.doc/wp-admin/includes/translation-install.php on line 156
+[17-Feb-2015 06:29:48 UTC] PHP Stack trace:
+[17-Feb-2015 06:29:48 UTC] PHP   1. {main}() /home/mridul/www/acdoc/ac.doc/wp-admin/install.php:0
+[17-Feb-2015 06:29:48 UTC] PHP   2. wp_install_language_form($languages = *uninitialized*) /home/mridul/www/acdoc/ac.doc/wp-admin/install.php:197
+[17-Feb-2015 06:34:53 UTC] PHP Notice:  Undefined offset: 1 in /home/mridul/www/acdoc/ac.doc/wp-includes/l10n.php on line 945
+[17-Feb-2015 06:34:53 UTC] PHP Stack trace:
+[17-Feb-2015 06:34:53 UTC] PHP   1. {main}() /home/mridul/www/acdoc/ac.doc/wp-admin/options-general.php:0
+[17-Feb-2015 06:34:53 UTC] PHP   2. wp_dropdown_languages($args = *uninitialized*) /home/mridul/www/acdoc/ac.doc/wp-admin/options-general.php:357
